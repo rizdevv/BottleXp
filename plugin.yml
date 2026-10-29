@@ -1,0 +1,8 @@
+name: "BottleXp"
+version: "1.0.0"
+main: "BottleXp"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
